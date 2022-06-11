@@ -9,4 +9,5 @@
 Учитывая коэффициент дисбаланса классов, мы рекомендуем измерять точность с помощью площади под кривой точности-отзыва (AUPRC). Точность матрицы путаницы не имеет значения для несбалансированной классификации.
 
 ## Ссылка на Jupyter Notebook в репозитории
-
+[Code](https://github.com/sanyonk/data-analysis-project/blob/main/main.ipynb)
+[Tutorial](https://github.com/sanyonk/data-analysis-project/blob/main/Tutorial.ipynb)
